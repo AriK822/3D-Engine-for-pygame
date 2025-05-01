@@ -22,12 +22,12 @@ L shift: Run
 Space: Jump
 
 
-##Down sides:
+## Down sides:
 Doesnt support gpu acceleration, resulting in performance issues for big projects.
 Projection bug for objects behind the camera. (needs cutting and generating new vertices which gets advanced)
 doesn't support textures and advanced lighting.
 
-##Summery:
+## Summery:
 There is room for a lot of improvements due to code clarity and use of OOP programing.
 
 Best wishes, Arman Kiani :)
