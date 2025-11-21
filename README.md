@@ -1,18 +1,16 @@
 # 3D-Engine-for-pygame
 
+This projects contains a 3D render engine for python, made in 4 days.
 
-## Report by Arman Kiani.
-
-- This projects contains a 3D render engine for python, made in 4 days.
 Two files are created for viewing flexibility and capability of engine, showing it can be used for any project / game with the right adjustment.
 
 ***
-- showcase/pygame viewer.py
+- showcase/pygame viewer.py:<br>
 	general visualization of engine capabilities like collision detection and direct obj file importing.
-
-- Minecraft/pygame viewer.py 
+<br><br>
+- Minecraft/pygame viewer.py:<br>
 	shows flexibility of the engine being used in a simple real life game.
-***
+<br><br>
 
 Controls:
 Mouse: Look
@@ -20,7 +18,15 @@ wasd: move
 R click, L click: Place, break block / Shoot
 L shift: Run
 Space: Jump
+***
 
+
+## Preview
+### Minecraft clone (breaking and placing blocks):
+![Minecraft prevew](previews/minecraft1.png)
+
+### Obj renderer:
+![Obj renderer](previews/showcase_1.png)
 
 ## Down sides:
 Doesnt support gpu acceleration, resulting in performance issues for big projects.
@@ -30,7 +36,7 @@ doesn't support textures and advanced lighting.
 ## Summery:
 There is room for a lot of improvements due to code clarity and use of OOP programing.
 
-Best wishes, Arman Kiani :)
+Best wishes, Arman Kiani
 
 
 
